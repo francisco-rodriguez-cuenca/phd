@@ -4,9 +4,9 @@
 
 1. __Establishing the topic area__ -> weak / empty
 
-The conversion of AC to DC power by electronic converters introduces various issues affecting power quality. These issues include harmonic distortions, voltage fluctuations, poor power factor, voltage imbalances, electromagnetic interference, and resonance problems. These power quality problems occur at the "point of common coupling" (PCC), where multiple electrical circuits connect, ultimately leading to a lower-quality power supply for end consumers and potential disruptions for their electrical equipment.
+The conversion of AC to DC power by electronic converters introduces various issues affecting power quality. These include harmonic distortions, voltage fluctuations, poor power factor, voltage imbalances, electromagnetic interference, and resonance problems. These problems occur at the "point of common coupling" (PCC), where multiple electrical circuits connect, and may ultimately lead to a lower-quality power supply for end consumers, with potential disruptions for their electrical equipment.
 
-2. __Describing previous research relevant to the topic__ -> better
+1. __Describing previous research relevant to the topic__ -> better
 
 CONTINUE HERE
 
